@@ -56,6 +56,7 @@ KNN matching between SIFT keypoint files
 Items: 
 
 •	Load each of the 4 keypoint files into 4 separate numpy arrays.  Arrays should be 2D in that the number of rows is the number of keypoints and the number of columns is 128 values.
+
 •	Construct a KNN Python function that compares the 2 keypoint arrays. Example uses will be:
 
 KNNmatch(BasmatiKeys, SceneKeys,k=2, confidence=50)
