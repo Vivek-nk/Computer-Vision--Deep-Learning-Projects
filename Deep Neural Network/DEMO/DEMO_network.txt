@@ -1,0 +1,10 @@
+Input Nodes : 2
+Hidden Layers : 2
+Hidden Nodes : 2
+Output Nodes : 2
+HL_Weight : 0 : 1 -2 : -1 1
+HL_Bias : 0 : 1 0
+HL_Weight : 1 : 2 -1 : -2 -1
+HL_Bias : 1 : 0 0
+Output_Weight : 0 : 3 -1 : -1 4
+Output_Bias : 0 : -2 2
