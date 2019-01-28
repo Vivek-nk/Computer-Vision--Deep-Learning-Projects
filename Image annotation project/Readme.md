@@ -75,7 +75,9 @@ Step: Run each cell of the AnnotateJupyter notebook to initialize the system
 
 After running the final cell:
 
+
   anotateImage = AnnotationProject()
+  
   annotateImage.runAnnotator()
   
  The system will show an image with 4 buttons: 
