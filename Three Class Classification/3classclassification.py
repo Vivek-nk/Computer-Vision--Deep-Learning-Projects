@@ -14,7 +14,7 @@ from sklearn.metrics import  accuracy_score
 
 
 # Full path of files
-directoryPath = '/home/vivek/Downloads/Homework_1_export/animals'
+directoryPath = 'animals'
 
 # Initializing lists to store file name, images, labels and data 
 fileNameList = []
