@@ -22,8 +22,12 @@ In this project lets try a 3-Class animals classification using K-Nearest Neighb
 Create a dataset in this format: 
 
 animals/
+
        cats/
+       
        dogs/
+       
        pandas/
+       
        
 Sample dataset has been uploaded. It does not have all the images as its difficult to upload all the images. Use Kaggle to download any neccessary dataset. 
