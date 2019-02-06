@@ -31,3 +31,5 @@ animals/
        
        
 Sample dataset has been uploaded. It does not have all the images as its difficult to upload all the images. Use Kaggle to download any neccessary dataset. 
+
+https://www.kaggle.com/c/dogs-vs-cats/data
